@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="second.pack.Human"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="arrays.OneDimensional"/>
+    <fullyQualifiedTypeName name="L06.ConstructorIntroductionInJava.Car"/>
+    <fullyQualifiedTypeName name="L09.InheritanceInJava.Vehicle"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Calculator"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="L10.Polymorphism.Dog"/>
+    <fullyQualifiedTypeName name="L01.InterfaceInJava.Phone"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileAlreadyExistsException"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="L08.ExceptionHandling.UserDefinedException"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="L09.EnumInJava.Learning"/>
+    <fullyQualifiedTypeName name="fuelType"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+</qualifiedTypeNameHistroy>
